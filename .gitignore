@@ -1,5 +1,5 @@
 # credentials
-credentials.yml
+credentials.txt
 .env
 application.yml
 *.pem
