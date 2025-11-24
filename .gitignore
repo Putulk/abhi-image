@@ -1,0 +1,7 @@
+# credentials
+credentials.yml
+.env
+application.yml
+*.pem
+*.key
+*.json
